@@ -1,0 +1,5 @@
+edu.ncsu.csc316.spell_checker.element
+edu.ncsu.csc316.spell_checker.hash_table
+edu.ncsu.csc316.spell_checker.io
+edu.ncsu.csc316.spell_checker.list
+edu.ncsu.csc316.spell_checker.manager

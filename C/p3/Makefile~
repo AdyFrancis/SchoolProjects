@@ -1,0 +1,12 @@
+CC = gcc
+CFLAGS = -Wall -std=c99
+
+all: jumble puzzle
+
+jumble: jumble.o
+
+puzzle: grid.o
+puzzle.o: grid.h
+grid.o: grid.h
+
+
